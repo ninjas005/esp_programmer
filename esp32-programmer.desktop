@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=ESP32 Programmer
+Comment=Flash ESP32-family boards over serial via a GUI
+# Update the three paths below if you clone this repo somewhere other
+# than /home/dev/projects/python/esp32_programmer.
+Exec=/home/dev/projects/python/esp32_programmer/.venv/bin/python /home/dev/projects/python/esp32_programmer/esp32_programmer.py
+Path=/home/dev/projects/python/esp32_programmer
+Icon=/home/dev/projects/python/esp32_programmer/serial.png
+Terminal=false
+Categories=Development;
+StartupNotify=true
