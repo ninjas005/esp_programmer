@@ -4,7 +4,6 @@ A small cross-platform GUI for flashing ESP32-family boards, built with
 [Flet](https://flet.dev). It wraps `esptool.py` so you don't have to
 remember serial ports, baud rates, or flash offsets by hand.
 
-![icon](serial.png)
 
 ## Features
 
